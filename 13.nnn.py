@@ -1,0 +1,5 @@
+n = int(input("Enter an integer: "))
+digits = str(n)
+nn = int(digits * 2)
+nnn = int(digits * 3)
+print(n + nn + nnn)
